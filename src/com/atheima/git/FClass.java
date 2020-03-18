@@ -9,4 +9,9 @@ public class FClass {
 
 
     }
+
+
+    public void test(){
+        System.out.println("test");
+    }
 }
